@@ -23,7 +23,7 @@ int main()
 	ptr = &value; 
 
 	// Checking if the pointer is null after assigning a 
-	// valid address 
+	
 	if (ptr == nullptr) { 
 		cout << "Pointer is currently null." << endl; 
 	} 
