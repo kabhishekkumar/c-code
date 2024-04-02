@@ -10,7 +10,7 @@ int pow(int base , int exp){
 }
 int main(){
     int base,exp;
-    cout<<"enter the base value = ";
+    cout<<"enter the value of base = ";
     cin>>base;
     cout<<"enter the exp value = ";
     cin>>exp;
