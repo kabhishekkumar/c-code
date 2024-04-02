@@ -8,5 +8,5 @@ cout<<n;
 print(n-1);
 }
 int main(){
-    print(3);
+    print(4);
 } 
