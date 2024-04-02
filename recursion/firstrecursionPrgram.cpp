@@ -5,8 +5,9 @@ if(a==1){
     cout<<"abhishek"<<endl;
 }
 else{
+    
+    cout<<"abhishek"<<endl;
     fun(a-1);
-    cout<<"abhishek";
     
 }
 return 0;
