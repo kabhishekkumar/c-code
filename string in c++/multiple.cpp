@@ -11,7 +11,7 @@ int main(){
    for(i=0; i<=3; i++){
     // puts(a[i]);
   cout<<puts(a[i])<<endl;
-  
+  return 0;
    }
    
    
