@@ -5,7 +5,7 @@ int main()
     int i, a[100], n, p, v;
     cout<<"enter the n=";
     cin>>n;
-    cout<<"enter the vlue =\n ";
+    cout<<"enter the element of array=\n ";
     for(i=0;i<n;i++){
         cin>>a[i];
     }
@@ -21,5 +21,5 @@ int main()
   for(i=0; i<=n; i++){
     cout<<"\n" <<a[i];
   }
- 
+ return 0;
 }
