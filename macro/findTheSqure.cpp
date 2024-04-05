@@ -5,7 +5,7 @@ using namespace std;
 
 int main(){
     int r;
-    cout<<"enter the value of r:";
+    cout<<"enter the radius :";
     cin>>r;
 
     double area = PI*square(r);
