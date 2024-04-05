@@ -12,7 +12,7 @@ cout<<"enter the matrix";
         for(j=0; j<2; j++){
             cout<< a[i][j];
         }
-        cout<<"\n";
+        cout<<endl;
     }
-
+return 0;
 }
