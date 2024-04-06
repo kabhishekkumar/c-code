@@ -4,7 +4,7 @@
 int main()
 {
 
-	// This pointer will hold the
+	// This pointer will hold the value
 	// base address of the block created
 	int* ptr;
 	int n, i;
