@@ -42,7 +42,7 @@ int main()
 		n = 10;
 		printf("\n\nEnter the new size of the array: %d\n", n);
 
-		// Dynamically re-allocate memory using realloc()
+		// Dynamically re-allocate memory using realloc();
 		ptr = (int*)realloc(ptr, n * sizeof(int));
 
 		// Memory has been successfully allocated
