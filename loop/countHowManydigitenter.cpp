@@ -8,7 +8,7 @@ int main() {
 
     if (N % 2 == 0) {
         cout << "N should be an odd number." << endl;
-        return 1; // Exit with error
+        return 1; // Exit with errors
     }
 
     for (int i = 0; i < N; i++) {
