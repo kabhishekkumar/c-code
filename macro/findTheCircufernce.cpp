@@ -4,7 +4,7 @@ using namespace std;
 
 int main(){
     int r;
-    cout<<"enter the value of r:";
+    cout<<"enter the value of radius:";
     cin>>r;
    double circu= 2*PI*r;
    cout<<circu;
