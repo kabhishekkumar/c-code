@@ -3,7 +3,7 @@ using namespace std;
 int main(){
     int multi(int,int );
     int s,x,y;
-    cout<<"enter the value of x and y";
+    cout<<"enter the value of x & y";
     cin>>x>>y;
     s = multi(x,y);
     cout<<s;
