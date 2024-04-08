@@ -22,5 +22,5 @@ int main () {
    cout<<"This is a sparse matrix"<<endl;
    else
    cout<<"This is not a sparse matrix"<<endl;
-   return 0;
+  
 }
