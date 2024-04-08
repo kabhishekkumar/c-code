@@ -9,7 +9,7 @@ cout<<"enter the value of array";
     for(i=0; i<n; i++){
 cin>>a[i];
     }
-
+  cout<<"reverse array"<<endl;
     for(i=(n-1); i>=0; i--){
         cout<<a[i];
         cout<<"\n";
@@ -18,4 +18,5 @@ cin>>a[i];
     //     cout<<a[i];
     //     cout<<"\n";
     // }
+    return 0;
 }
