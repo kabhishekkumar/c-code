@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int i,a[100],n,p;
-    cout<<"enter the value of number= ";
+    cout<<"enter the value of n= ";
     cin>>n;
     cout<<"enter the number of array";
 
@@ -12,7 +12,7 @@ int main(){
     cout<<"enter the position";
     cin>>p;
 
-    for(i=p; i<=(n-1); i++){
+    for(i=(p-1); i<=(n-1); i++){
         a[i-1]=a[i];
     }
     for(i=0; i<=(n-1); i++){

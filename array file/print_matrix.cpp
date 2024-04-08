@@ -14,5 +14,5 @@ cout<<"enter the matrix";
         }
         cout<<endl;
     }
-return 0;
+
 }
