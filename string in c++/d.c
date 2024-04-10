@@ -22,5 +22,5 @@ int main() {
     
     printf("Maximum value in the array is: %d\n", max);
     
-    return 0;
+   
 }
