@@ -8,4 +8,5 @@ int main()
     for(i=1; i<=n; ++i){
         cout<<"print the integer number"<<i<<endl;
     }
+    return 0;
 }
