@@ -13,7 +13,7 @@ int main()
 	n = 5;
 	printf("Enter number of elements: %d\n", n);
 
-	// Dynamically allocate memory using calloc()
+	// Dynamically allocate memory using theg calloc()
 	ptr = (int*)calloc(n, sizeof(int));
 
 	// Check if the memory has been successfully
