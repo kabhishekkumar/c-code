@@ -25,7 +25,7 @@ int main()
 	}
 	else {
 
-		// Memory has been successfully allocated
+		// Memory has been successfully  allocated
 		printf("Memory successfully allocated using malloc.\n");
 
 		// Get the elements of the array
@@ -40,5 +40,5 @@ int main()
 		}
 	}
 
-	
+	return 0;
 }
