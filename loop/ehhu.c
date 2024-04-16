@@ -10,7 +10,7 @@ int main() {
     // Dynamically allocate memory for the array
     arr = (int *)malloc(n * sizeof(int));
 
-    // Check if memory allocation is successful
+    // Check if  dynemic memory allocation is successful
     if (arr == NULL) {
         printf("Memory allocation failed!\n");
         return 1; // Exit with error code
