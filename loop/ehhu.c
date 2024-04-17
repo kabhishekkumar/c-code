@@ -7,7 +7,7 @@ int main() {
     printf("Enter the number of elements: ");
     scanf("%d", &n);
 
-    // Dynamically allocate memory for the array
+    // Dynamically allocate memory for  array
     arr = (int *)malloc(n * sizeof(int));
 
     // Check if  dynemic memory allocation is successful
