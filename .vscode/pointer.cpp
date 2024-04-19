@@ -25,7 +25,7 @@ int main()
 	// Checking if the pointer is null after assigning a 
 	
 	if (ptr == nullptr) { 
-		cout << "Pointer is currently null." << endl; 
+		cout<<"Pointer is currently null." << endl; 
 	} 
 	else { 
 		cout << "Pointer is not null." << endl; 
