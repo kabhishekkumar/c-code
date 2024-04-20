@@ -10,4 +10,5 @@ int main(){
 
     double area = PI*square(r);
     cout<<"area of circle = "<<area;
+    return 0;
 }
