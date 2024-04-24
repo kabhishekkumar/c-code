@@ -10,7 +10,7 @@ public:
         privateData = data;
     }
 
-    // Member function declared outside the class
+    // Member function declared outside  class
     void getData();
 };
 
