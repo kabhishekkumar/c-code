@@ -23,5 +23,5 @@ int main() {
     MyClass obj;
     obj.setData(10);
     obj.getData();
-    return 0;
+   
 }
