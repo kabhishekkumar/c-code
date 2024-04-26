@@ -13,7 +13,7 @@ public:
         balance = initialBalance;
     }
 
-    // Member function to deposit the money
+    // Member function to deposit  money
     void deposit(double amount) {
         balance += amount;
         std::cout << "Amount " << amount << " deposited successfully." << std::endl;
