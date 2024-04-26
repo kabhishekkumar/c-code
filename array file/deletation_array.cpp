@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
     int i,a[100],n,p;
-    cout<<"enter the value of n= ";
+    cout<<"enter the value of number= ";
     cin>>n;
     cout<<"enter the number of array";
 
