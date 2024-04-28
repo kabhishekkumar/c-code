@@ -17,5 +17,5 @@ cin>>n;
         }
         cout<<endl;
         }
-     return 0;
+   
 }
