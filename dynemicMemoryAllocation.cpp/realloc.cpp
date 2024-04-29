@@ -53,7 +53,7 @@ int main()
 			ptr[i] = i + 1;
 		}
 
-		// Print the elements of the array
+		// Print the elements of  array
 		printf("The elements of the array are: ");
 		for (i = 0; i < n; ++i) {
 			printf("%d, ", ptr[i]);
